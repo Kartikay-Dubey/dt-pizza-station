@@ -173,10 +173,9 @@ We are a team of passionate developers building premium web experiences.
 
 | Member Name | GitHub Profile |
 |-------------|----------------|
-| **[Member Name]** | [github.com/username](https://github.com/) |
-| **[Member Name]** | [github.com/username](https://github.com/) |
-| **[Member Name]** | [github.com/username](https://github.com/) |
-| **[Member Name]** | [github.com/username](https://github.com/) |
+| **[Kartikay Dubey]** | [https://github.com/Kartikay-Dubey](https://github.com/Kartikay-Dubey) |
+| **[Tanya Varshney]** | [https://github.com/Tanyav-rshney](https://github.com/Tanyav-rshney) |
+| **[Daksh Verma]** | [https://github.com/Daksh-o1](https://github.com/Daksh-o1) |
 
 ---
 
@@ -199,5 +198,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ and 🍕 by All Known
+  Made with ❤️ and 🍕 by Nocturnals Unit
 </p>
