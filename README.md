@@ -93,7 +93,7 @@ We believe motion should be **meaningful**, not just decorative. This project ut
 - **Animation**: [Framer Motion](https://www.framer.com/motion/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **State Management**: React Context API (Cart Logic)
-- **Deployment**: Vercel
+- **Deployment**: Netlify
 
 ---
 
@@ -200,5 +200,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ and 🍕 by Nocturnals Unit — <a href="https://app.netlify.com/projects/dt-pizza-station/deploys">Love • Live Demo</a>
+  Made with ❤️ and 🍕 
 </p>
