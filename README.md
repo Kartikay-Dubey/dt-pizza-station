@@ -12,6 +12,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Project-FF4500?style=for-the-badge&logo=trophy&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ac75dc3-6a59-4346-8539-46b37ffb626a/deploy-status)](https://app.netlify.com/projects/dt-pizza-station/deploys)
 
 <p align="center">
   <strong>A premium, motion-driven restaurant ordering platform built for the modern web.</strong>
