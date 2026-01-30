@@ -11,8 +11,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Project-FF4500?style=for-the-badge&logo=trophy&logoColor=white)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ac75dc3-6a59-4346-8539-46b37ffb626a/deploy-status)](https://app.netlify.com/projects/dt-pizza-station/deploys)
+
+<br />
+[![Love • Live Demo](https://img.shields.io/badge/Love-%E2%9D%A4%EF%B8%8F%20Live%20Demo-ff69b4?style=for-the-badge&logo=netlify)](https://app.netlify.com/projects/dt-pizza-station/deploys)
 
 <p align="center">
   <strong>A premium, motion-driven restaurant ordering platform built for the modern web.</strong>
@@ -199,5 +200,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ and 🍕 by Nocturnals Unit
+  Made with ❤️ and 🍕 by Nocturnals Unit — <a href="https://app.netlify.com/projects/dt-pizza-station/deploys">Love • Live Demo</a>
 </p>
