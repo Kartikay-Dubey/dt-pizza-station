@@ -1,7 +1,10 @@
 # 🍕 DT Pizza Station  
 ### Crafted. Fired. Perfected. The Future of Food Ordering.
+<p align="center">
+  Built by <strong>Nocturnals Unit</strong> 🌙
+</p>
 
-![Banner](https://github.com/user-attachments/assets/placeholder-banner.png)
+![Banner](./ReadmeScreenshots/Banner.png)
 
 <div align="center">
 
@@ -65,19 +68,19 @@ We believe motion should be **meaningful**, not just decorative. This project ut
 
 ### 🏠 Home Page
 *The immersive landing with video background and glass navigation.*
-![Home Page](https://github.com/user-attachments/assets/placeholder-home.png)
+![Home Page](./ReadmeScreenshots/Home.png)
 
 ### 🍽️ Interactive Menu
 *Floating glass cards with morphing buttons and smart filters.*
-![Menu Section](https://github.com/user-attachments/assets/placeholder-menu.png)
+![Menu Section](./ReadmeScreenshots/Menu.png)
 
 ### 🏷️ Offers & Deals
 *Premium, pill-shaped offer cards with copy interactions.*
-![Offers Page](https://github.com/user-attachments/assets/placeholder-offers.png)
+![Offers Page](./ReadmeScreenshots/Offers.png)
 
 ### 📖 About & Story
 *Rich content layout with visual storytelling.*
-![About Page](https://github.com/user-attachments/assets/placeholder-about.png)
+![About Page](./ReadmeScreenshots/About.png)
 
 ---
 
@@ -161,6 +164,19 @@ This project was built to solve the **"Boring Menu Problem"**. Most food apps ar
 - [ ] **Stripe Integration** for live payments.
 - [ ] **AI Recommendation Engine** based on order history.
 - [ ] **3D Pizza Configurator** using Three.js.
+
+---
+
+## 👥 Meet the Team: Nocturnals Unit
+
+We are a team of passionate developers building premium web experiences.
+
+| Member Name | GitHub Profile |
+|-------------|----------------|
+| **[Member Name]** | [github.com/username](https://github.com/) |
+| **[Member Name]** | [github.com/username](https://github.com/) |
+| **[Member Name]** | [github.com/username](https://github.com/) |
+| **[Member Name]** | [github.com/username](https://github.com/) |
 
 ---
 
