@@ -13,7 +13,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 <br />
-[![Love • Live Demo](dt-pizza-station.netlify.app)
+[![Love • Live Demo]((https://app.netlify.com/projects/dt-pizza-station/deploys))
 
 <p align="center">
   <strong>A premium, motion-driven restaurant ordering platform built for the modern web.</strong>
