@@ -183,5 +183,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ and 🍕 by All Known
+  Made with ❤️ and 🍕 by Nocturnals Unit
 </p>
